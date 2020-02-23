@@ -24,7 +24,7 @@
 
        LED Strips are located on the two sides of the enclosure case at the bottom of the skateboard, and shine their light on two sides of the skateboard. They are programmed to emit blue light when going forward and red light when applied brakes.
 
-       ![Screen Shot 2019-10-27 at 10.21.25](/Users/ziyuli/Documents/Personal Projects/eSK8/Photos/Screen Shot 2019-10-27 at 10.21.25.png)
+       ![Screen Shot 2019-10-27 at 10.21.25](/Users/ziyuli/Documents/Personal Projects/eSK8/ProposalPhotos/Screen Shot 2019-10-27 at 10.21.25.png)
 
      - Front Light
 
@@ -36,11 +36,11 @@
 
 3. **Current design**
 
-   - CAD![Deck-Proto](/Users/ziyuli/Documents/Personal Projects/eSK8/Photos/Deck-Proto.jpg)
+   - CAD![Deck-Proto](/Users/ziyuli/Documents/Personal Projects/eSK8/ProposalPhotos/Deck-Proto.jpg)
 
    - Schematic Diagram
 
-     ![eSK8](/Users/ziyuli/Documents/Personal Projects/eSK8/Photos/eSK8.jpeg)
+     ![eSK8](/Users/ziyuli/Documents/Personal Projects/eSK8/ProposalPhotos/eSK8.jpeg)
 
 4. **Contribution to the Robotics Club**
 
